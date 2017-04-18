@@ -2,7 +2,7 @@
 
 -------------------------------------------------------------------------------
 
-The project done as a part of the EE 219 in Winter 2017. 
+The project done as a part of the EE219 in Winter 2017. 
 
 The goal of the project is clustering using 20 Newsgroups Dataset. 
 
